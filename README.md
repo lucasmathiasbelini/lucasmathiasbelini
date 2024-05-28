@@ -14,13 +14,6 @@
 
 😄 Pronomes: Ele/Dele
 </div>
-<div align="center">
-  <a href="https://github.com/lucasmathiasbelini">
-      
- <img  height="150em" src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311"/>
-      
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 
 <div align="center">
@@ -35,7 +28,20 @@
 
 
 
-    
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/lucasmathiasbelini">
+      
+ <img  height="150em" src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311"/>
+      
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
