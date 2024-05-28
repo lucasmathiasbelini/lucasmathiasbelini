@@ -16,7 +16,9 @@
 </div>
 <div align="center">
   <a href="https://github.com/lucasmathiasbelini">
-
+      
+ <img  align="center" height="150em" src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311"/>
+      
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
@@ -28,7 +30,6 @@
   <!-- <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg"> -->
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg">
 
-  <img  align="center" height="150em" src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311"/>
 </div>
 
 </div>
