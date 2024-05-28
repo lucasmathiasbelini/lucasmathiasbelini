@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/lucasmathiasbelini">
-      <img height="150em" src="https://i.pinimg.com/originals/55/6a/f1/556af168f1356fcd42c51f87eed1728f.gif"/>
+      <img height="150em" src="https://i.pinimg.com/originals/f7/cc/2a/f7cc2a3e4145136c77b83a26c4d17bae.png"/>
  <img  height="150em" src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311"/>
       
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark"/>
