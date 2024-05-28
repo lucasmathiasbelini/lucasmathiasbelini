@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
     font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Mateus+Souza!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
   </a>
 </p>
@@ -9,7 +8,7 @@
 🔭 Eu sou desenvolvedor Back-end e atualmente estou estudando Java
 
 
-🌱 Também estou estudando ja spring boot e angular
+🌱 Também estou estudando java spring boot e angular
 
 💬 Sou entusiasta no desenvolvimento Java para APIs
 
