@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/lucasmathiasbelini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusSouzaAlves&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmathiasbelini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block" align="center"><br>
