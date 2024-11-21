@@ -1,5 +1,5 @@
 - 👋 Olá,me chamo lucasmathiasbelini
-- 👀 SQL,spring boot, java
+- 👀 linguagens: SQL,spring boot, java
 - 🍃 Estou estudando java spring boot
 - ⚡ programador Back-end
 
