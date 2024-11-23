@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://th.bing.com/th/id/R.1d55aa2261385c517fb7e8f34c62f82e?rik=aJo1jBMqZvXOzw&riu=http%3a%2f%2f2.bp.blogspot.com%2f-49F0dzksVYU%2fT_Cg8hp0tVI%2fAAAAAAAAAEE%2fgNGdZK8TsWA%2fs1600%2fss-bshackerze.jpg&ehk=A29tWWXdHcRV0RhAb%2b%2bu3%2f0uz3e6%2bypyGNnq05PUMm8%3d&risl=&pid=ImgRaw&r=0"  />
+<img align="right" height="200" src="https://www.chathamhouse.org/sites/default/files/styles/16_9_media_medium/public/2020-02/20141209Cyber.jpg?h=33a87196&itok=vXuQapqi"  />
 
 ###
 
